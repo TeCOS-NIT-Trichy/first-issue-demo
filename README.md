@@ -43,6 +43,9 @@ git push origin your-branch-name
 ### Department
 Your Department, Year
 
+### College
+Your College
+
 ### Your socials
 - Gtihub
 - Linkedin
