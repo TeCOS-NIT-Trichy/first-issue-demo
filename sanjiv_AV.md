@@ -1,6 +1,6 @@
 # Sanjiv Kannaa J
 
-<img src="https://user-images.githubusercontent.com/33419526/196257361-10439ab0-eae2-4135-9353-01ed75cf3767.jpg"  width="200" height="250" />
+[comment]: <> <img src="https://user-images.githubusercontent.com/33419526/196257361-10439ab0-eae2-4135-9353-01ed75cf3767.jpg"  width="200" height="250" />
 
 ### Department
 2rd Year, CSE
