@@ -2,7 +2,7 @@
 Jatin Agarwal
 
 ### Department
-YECE, 2nd year
+ECE, 2nd year
 
 ### College
 National institute of technology, Trichy
