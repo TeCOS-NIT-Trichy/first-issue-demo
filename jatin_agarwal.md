@@ -15,7 +15,10 @@ National institute of technology, Trichy
 - C,C++
 
 ### Non-Coding Interests
-- Travelling,Reading,exercise,volleyball
+- Travelling,
+- Reading,
+- exercise,
+- volleyball
 
 ### Which one super power you would like to have if given chance?
 - telekinesis
