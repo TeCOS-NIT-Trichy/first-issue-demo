@@ -1,4 +1,5 @@
-# Siddhant Mishra
+# First and Last Name
+Siddhant Mishra
 
 ### Department
 MME, 2nd year
