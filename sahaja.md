@@ -8,7 +8,7 @@ Ece, 3rd
 
 ### College
 
-NIT Trichy
+NIT Tiruchirappalli
 
 ### Your socials
 
