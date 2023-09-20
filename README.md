@@ -1,4 +1,4 @@
-# TeCOS Hactoberfest 2022 - First Issue Demo
+# TeCOS Hactoberfest 2023 - First Issue Demo
 
 Make your first contribution for Hacktoberfest in the simplest way.
 
