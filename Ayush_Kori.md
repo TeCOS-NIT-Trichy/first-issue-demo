@@ -12,7 +12,7 @@ NIT Trichy
 - Linkedin
 - https://www.linkedin.com/in/ayush-kori-b10a38202/
 - Instagram
-- 
+- Twitter
 - Etc
 
 ### Programing langauges and tech stacks you know

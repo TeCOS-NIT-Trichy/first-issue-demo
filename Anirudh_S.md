@@ -51,6 +51,7 @@ Nit trichy
 - Gtihub
 - Linkedin
 - Instagram
+-Twitter
 - Etc
 
 ### Programing langauges and tech stacks you know
