@@ -18,7 +18,7 @@ NITT
 
 ### Non-Coding Interests
 - badminton
-- Table Tennis
+- TableTennis
 
 ### Which one super power you would like to have if given chance?
 Flying, Teleportation, etc
